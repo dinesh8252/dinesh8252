@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dinesh8252
-- 👀 I’m interested in ... software evlopment
+- 👀 I’m interested in ... software devlopment
 - 🌱 I’m currently learning ... c++ and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dkarya1012@gmail.com
