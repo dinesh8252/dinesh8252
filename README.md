@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dinesh8252
-- 👀 I’m interested in ... software devlopment
-- 🌱 I’m currently learning ... c++ and java
+- 👀 I’m interested in ... Front-End Developer as well as Software Devloper
+- 🌱 I’m currently learning ... C++, Java and DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... dkarya1012@gmail.com
+- 📫 How to reach me ... techhappy999@gmail.com
 
 <!---
 dinesh8252/dinesh8252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
