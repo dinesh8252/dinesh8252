@@ -7,7 +7,7 @@
 <p align="left">
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Web Development , MEARN**
 
 - 📫 How to reach me **techhappy999@gmail.com** </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh8252" alt="dinesh8252" /></a> </p>
