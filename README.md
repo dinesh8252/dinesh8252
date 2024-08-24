@@ -5,9 +5,9 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" alt="Girl in a jacket" width="400" align="right" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh8252&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh8252" /> </p>
 <p align="left">
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Full stack**
 
-- 💬 Ask me about **Web Development , MERN**
+- 💬 Ask me about **Web Development , MERN stack**
 
 - 📫 How to reach me **techhappy999@gmail.com** </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh8252" alt="dinesh8252" /></a> </p>
